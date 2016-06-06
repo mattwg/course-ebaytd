@@ -1,6 +1,6 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Connecting to Teradata at eBay
+description : This course will help you familiarise yourself with connecting R to Teradata in order to run SQL queries and get data into R dataframes.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
