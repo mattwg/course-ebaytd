@@ -5,10 +5,10 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:VideoExercise lang:r xp:50 skills:1 key:f76c47fe1d
-## Analyze movie ratings
+## Inspire me!
 
 *** =video_link
-//player.vimeo.com/video/154783078
+//player.vimeo.com/video/169426776
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:0433ded88f
 ## A really bad movie
