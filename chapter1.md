@@ -8,7 +8,7 @@ attachments :
 
 ## Getting started with ebaytd
 
-*** =video_link https://www.youtube.com/embed/YTtl5n-Tk-g
+*** =video_link //www.youtube.com/embed/YTtl5n-Tk-g
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:0433ded88f
 ## Where do you get the latest version of the ebaytd package?
