@@ -6,7 +6,7 @@ attachments :
 
 --- type:VideoExercise lang:r xp:50 skills:1 key:f76c47fe1d
 
-## Getting started with ebaytd
+## Getting started with the ebaytd package
 
 *** =video_link
 https://player.vimeo.com/video/170733335
