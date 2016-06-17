@@ -1,7 +1,7 @@
 title            : Template R DataCamp Course
-author_field     : mattwg
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-author_bio       : mattwg is an awesome DataCamp course creator.<br>You can say something about yourself <strong>here</strong>.
-university       : DataCamp
+author_field     : Matt Gardner
+description      : This course will get you connected to Teradata in no time at all!
+author_bio       : Matt Gardner loves R and eBay!  
+university       : eBay
 difficulty_level : 2
 time_needed      : 1 hour
