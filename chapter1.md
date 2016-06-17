@@ -4,14 +4,14 @@ description : This chapter will help you familiarise yourself with connecting R 
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:VideoExercise lang:r xp:50 skills:1 key:f76c47fe1d
+--- type:VideoExercise lang:r xp:200 skills:1 key:f76c47fe1d
 
 ## Getting started with the ebaytd package
 
 *** =video_link
 https://player.vimeo.com/video/170761929
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:0433ded88f
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 
 ## Where do you go to get the latest version of the ebaytd package?
 
 *** =instructions
