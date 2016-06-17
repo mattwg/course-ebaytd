@@ -9,7 +9,7 @@ description : This chapter will help you familiarise yourself with connecting R 
 *** =video_link
 https://player.vimeo.com/video/170761929
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:4a825b5303
 ## Which one of these is NOT required to use the ebaytd package?
 
 *** =instructions
@@ -36,7 +36,7 @@ msg_success <- "Well done! The RODBC package is not required - we choose to use 
 test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad)) 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:0433ded88f
 ## Where do you go to get the latest version of the ebaytd package?
 
 *** =instructions
@@ -90,7 +90,7 @@ msg_success <- "Well done! The RODBC package is not required - we choose to use 
 test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad)) 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:0dcb4428d6
 ## Which one of these is NOT a reason to call teradataInit()?
 
 *** =instructions
