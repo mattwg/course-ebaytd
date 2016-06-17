@@ -1,6 +1,6 @@
 ---
 title       : Dynamic SQL
-description : Learn how to create dynamic SQL queries - useful for batches and automation.
+description : In this chapter you will learn how to create dynamic SQL queries - useful for batches and automation.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
