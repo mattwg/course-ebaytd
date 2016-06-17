@@ -11,7 +11,7 @@ attachments :
 *** =video_link
 https://player.vimeo.com/video/170761929
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:0433ded88f
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1
 ## Where do you get the latest version of the ebaytd package?
 
 *** =instructions
@@ -25,10 +25,6 @@ It is on an internal eBay site - there are only two in that list!
 
 *** =sct
 ```{r}
-# The sct section defines the Submission Correctness Tests (SCTs) used to
-# evaluate the student's response. All functions used here are defined in the 
-# testwhat R package
-
 msg_bad <- "That is not correct!"
 msg_success <- "Exactly! This is an eBay specific package and is only available from the wiki - search for ebaytd to find the page."
 
